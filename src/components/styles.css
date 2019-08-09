@@ -116,12 +116,12 @@ body {
 }
 
 .navBarBrand img {
-  width: 15vw;
+  width: 8vw;
   margin-right: 16px;
   display: inline-block;
   position: absolute;
-  left: -2vw;
-  top: -3vw;
+  left: 8vw;
+  top: -1vw;
 }
 
 .navBarUL li a {
