@@ -1,6 +1,6 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/",
+		"pathPrefix": "/docs/",
 		"siteUrl": "https://styczynski.in/docs",
 		"gaTrackingId": null
 	},
